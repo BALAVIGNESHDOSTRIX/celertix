@@ -15,8 +15,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 
 ```bash
 #Clone the project
-git clone https://github.com/BALAVIGNESHDOSTRIX/celertix-framework.git
-cd celertix-framework
+git clone https://github.com/BALAVIGNESHDOSTRIX/celertix.git
+cd celertix
 
 pip3 install -r requirements.txt
 			(or)
